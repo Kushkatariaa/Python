@@ -1,2 +1,2 @@
 # Python
-Graphic unit interface Program
+Graphical user interface Program
